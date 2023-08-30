@@ -1,0 +1,11 @@
+{
+  "name": "instagram-mocked-api",
+  "version": "1.0.0",
+  "description": "A Node application to return instagram mocked data ",
+  "main": "src/index.js",
+  "author": "Jorge de Carvalho",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
